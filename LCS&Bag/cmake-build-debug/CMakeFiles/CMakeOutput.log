@@ -1,0 +1,17 @@
+The system is: Windows - 6.1.7601 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/bin/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "F:/my_hznu/大二下学期/算法/github/LCS&Bag/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj"
+
